@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:18996",
-      "sslPort": 44327
+      "applicationUrl": "http://localhost:28975",
+      "sslPort": 44342
     }
   },
   "profiles": {
@@ -15,9 +15,8 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Angular_MVC": {
+    "ScriptLauncher": {
       "commandName": "Project",
-      "dotnetRunMessages": "true",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
