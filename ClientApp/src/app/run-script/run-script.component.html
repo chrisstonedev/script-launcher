@@ -1,0 +1,22 @@
+<h1 id="tableLabel">Run script</h1>
+
+<p>Select one of the following script files to execute.</p>
+
+<p *ngIf="!scripts"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="scripts">
+  <thead>
+  <tr>
+    <th>Script name</th>
+    <th>Execute</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let script of scripts">
+    <td>{{ script.fileName }}</td>
+    <td>
+      <button (click)="executeScript(script)">Run {{ script.fileName }}</button>
+    </td>
+  </tr>
+  </tbody>
+</table>
