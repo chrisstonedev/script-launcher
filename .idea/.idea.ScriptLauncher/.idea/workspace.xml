@@ -6,109 +6,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a9e289-8cbe-400c-9056-6e5494b2471f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.server.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tsconfig.server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Error.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScriptLauncher.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScriptLauncher.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherForecast.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Angular_MVC.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Angular_MVC.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/ErrorViewModel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/_ViewStart.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/js/site.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.server.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/tsconfig.server.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptLauncher.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptLauncher.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +59,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b260d5ec18f6c63f8f814739d37f625cb1a44c5d" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -190,7 +138,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
