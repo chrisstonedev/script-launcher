@@ -5,53 +5,31 @@
     <projectFile profileName="ScriptLauncher">ScriptLauncher.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a9e289-8cbe-400c-9056-6e5494b2471f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ClientApp/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/tsconfig.spec.json" afterDir="false" />
+    <list default="true" id="f5a9e289-8cbe-400c-9056-6e5494b2471f" name="Changes" comment="Replace provided Angular project with brand new one">
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ScriptLauncher/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/e2e/tsconfig.e2e.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.server.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/counter/counter.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/fetch-data/fetch-data.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav-menu/nav-menu.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/karma.conf.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/polyfills.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/tsconfig.server.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptLauncher.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptLauncher.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\code\ScriptLauncher\ClientApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ScriptLauncher">
@@ -125,6 +104,14 @@
       <updated>1629209092247</updated>
       <workItem from="1629209096079" duration="1108000" />
     </task>
+    <task id="LOCAL-00001" summary="Replace provided Angular project with brand new one">
+      <created>1629216323198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629216323198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,5 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Replace provided Angular project with brand new one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace provided Angular project with brand new one" />
   </component>
 </project>
